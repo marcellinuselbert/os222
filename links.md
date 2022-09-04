@@ -1,6 +1,7 @@
 ---
+permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By Marcellinus Elbert</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
@@ -8,7 +9,10 @@
 [GITHUB](https://github.com/marcellinuselbert)
 <br>
 <hr>
-OS 222
-<br>
-<hr>
+
+# LINKS
+
+1. [x](#)<br>
+    example
+
 <br>
