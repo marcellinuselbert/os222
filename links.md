@@ -1,7 +1,7 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Marcellinus Elbert</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
