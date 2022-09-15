@@ -32,5 +32,6 @@ permalink: LINKS/
 	For those who are using Mac with Apple Silicon, please read this announcement due to an error on W02.
 2. [What is GnuPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
 	An explanation about GnuPG used in W02
+
 ##
 Marcellinus Elbert - 2022
