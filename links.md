@@ -33,5 +33,13 @@ permalink: LINKS/
 2. [What is GnuPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
 	An explanation about GnuPG used in W02
 
+## Week 03
+1. [Mount Definition](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux)
+	This link is about definition of mounting in Linux
+2. [Bash Aliases](https://tldp.org/LDP/abs/html/aliases.html#:~:text=A%20Bash%20alias%20is%20essentially,a%20ls%20%2Dl%20%7C%20more.)
+	Bash aliases definition and example
+3. [Linux Ownership](https://www.javatpoint.com/linux-file-ownership)
+	This link is explaining about linux file ownership
+
 ##
 Marcellinus Elbert - 2022
