@@ -41,5 +41,12 @@ permalink: LINKS/
 3. [Linux Ownership](https://www.javatpoint.com/linux-file-ownership)
 	This link is explaining about linux file ownership
 
+## Week 04 
+1. [Memory Adressing in C](https://www.w3schools.com/c/c_memory_address.php#:~:text=When%20a%20variable%20is%20created,stored%20in%20this%20memory%20address.)
+	This link is about addressing system in C language
+2. [Big and Little Endian in C](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
+	This link is about big and little endian in C language
+	
+
 ##
 Marcellinus Elbert - 2022
