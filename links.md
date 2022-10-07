@@ -46,7 +46,12 @@ permalink: LINKS/
 	This link is about addressing system in C language
 2. [Big and Little Endian in C](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
 	This link is about big and little endian in C language
-	
+
+## Week 05
+1. [What is Kernel Panic?](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)
+        Explaining kernel panic in low memory boot
+2. [Synchronous Exception](https://developer.arm.com/documentation/den0024/a/AArch64-Exception-Handling/Synchronous-and-asynchr>
+        Explaining synchronous exception in arm	
 
 ##
 Marcellinus Elbert - 2022
