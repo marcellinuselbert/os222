@@ -50,5 +50,18 @@ ZCZC W05 30 L40 TXT/ general
 ZCZC W05 60 GSGS related
 ZCZC W05 10 SSH, key-gen, tunneling, putty, winscp
 ZCZC W05 20 C-language including Make.
-
-
+ZCZC W06 100 L05 QUIZ and Studying
+ZCZC W06 60 L21 Trying something
+ZCZC W06 10 L03 GitHub related
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 20 L04 GitHub Pages related
+ZCZC W06 10 SSH, key-gen, tunneling, putty, winscp
+ZCZC W06 40 L40 TXT/ general
+ZCZC W06 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W06 80 L64 Helping friends
+ZCZC W06 70 L00 General, etc.
+ZCZC W06 120 GSGS related
+ZCZC W06 210 L09 Weekly Assignments
+ZCZC W06 10 L22 tar
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 20 C-language including Make

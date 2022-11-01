@@ -53,5 +53,11 @@ permalink: LINKS/
 2. [Synchronous Exception](https://developer.arm.com/documentation/den0024/a/AArch64-Exception-Handling/Synchronous-and-asynchr>
         Explaining synchronous exception in arm	
 
+## Week 06
+1. [What is Fork in Operating System?](https://www.computerhope.com/jargon/f/fork.htm#:~:text=In%20an%20operating%20system%2C%20a,of%20the%20calling%20parent%20process.)
+	This website is explaining about Fork in OS
+2. [Fork Example in C](https://linuxhint.com/fork-exec-coding-c/)
+	Example fork and exec in C
+
 ##
 Marcellinus Elbert - 2022
