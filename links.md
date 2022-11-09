@@ -59,5 +59,10 @@ permalink: LINKS/
 2. [Fork Example in C](https://linuxhint.com/fork-exec-coding-c/)
 	Example fork and exec in C
 
+## Week 07
+1. [Secure Copy](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+	Explaining SCP command in linux
+2. [Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)
+	Explaining SYNC in Linux
 ##
 Marcellinus Elbert - 2022
