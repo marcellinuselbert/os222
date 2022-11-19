@@ -29,40 +29,47 @@ permalink: LINKS/
 
 ## Week 02
 1. [Mac Apple Sillicon Week02 Issue](https://scele.cs.ui.ac.id/mod/forum/discuss.php?d=38853)
-	For those who are using Mac with Apple Silicon, please read this announcement due to an error on W02.<br>
+<br>	For those who are using Mac with Apple Silicon, please read this announcement due to an error on W02.<br>
 2. [What is GnuPG](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)
-	An explanation about GnuPG used in W02
+<br>	An explanation about GnuPG used in W02
 
 ## Week 03
 1. [Mount Definition](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux)
-	This link is about definition of mounting in Linux<br>
+<br>	This link is about definition of mounting in Linux<br>
 2. [Bash Aliases](https://tldp.org/LDP/abs/html/aliases.html#:~:text=A%20Bash%20alias%20is%20essentially,a%20ls%20%2Dl%20%7C%20more.)
-	Bash aliases definition and example<br>
+<br>	Bash aliases definition and example<br>
 3. [Linux Ownership](https://www.javatpoint.com/linux-file-ownership)
-	This link is explaining about linux file ownership
+<br>	This link is explaining about linux file ownership
 
 ## Week 04 
 1. [Memory Adressing in C](https://www.w3schools.com/c/c_memory_address.php#:~:text=When%20a%20variable%20is%20created,stored%20in%20this%20memory%20address.)
-	This link is about addressing system in C language<br>
+<br>	This link is about addressing system in C language<br>
 2. [Big and Little Endian in C](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
-	This link is about big and little endian in C language
+<br>	This link is about big and little endian in C language
 
 ## Week 05
 1. [What is Kernel Panic?](https://www.techtarget.com/searchdatacenter/definition/kernel-panic)
-        Explaining kernel panic in low memory boot<br>
+<br>      Explaining kernel panic in low memory boot<br>
 2. [Synchronous Exception](https://developer.arm.com/documentation/den0024/a/AArch64-Exception-Handling/Synchronous-and-asynchr>)
-        Explaining synchronous exception in arm	
+<br>       Explaining synchronous exception in arm	
 
 ## Week 06
 1. [What is Fork in Operating System?](https://www.computerhope.com/jargon/f/fork.htm#:~:text=In%20an%20operating%20system%2C%20a,of%20the%20calling%20parent%20process.)
-	This website is explaining about Fork in OS<br>
+<br>	This website is explaining about Fork in OS<br>
 2. [Fork Example in C](https://linuxhint.com/fork-exec-coding-c/)
-	Example fork and exec in C
+<br>	Example fork and exec in C
 
 ## Week 07
 1. [Secure Copy](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
-	Explaining SCP command in linux
+<br>	Explaining SCP command in linux
 2. [Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)
-	Explaining SYNC in Linux
+<br>	Explaining SYNC in Linux
+	
+## Week 08
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)
+<br> This is the guidance book for building Linux From Scratch
 ##
+2. [Scheduling](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)
+<br> Scheduling in os terms explained
+
 Marcellinus Elbert - 2022
